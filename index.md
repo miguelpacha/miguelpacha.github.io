@@ -2,5 +2,4 @@
 layout: default
 ---
 
-This is my personal web page hosted by GitHub Pages.
-
+I am studying Electrical Engineering at the University of Brasília.
