@@ -1,3 +1,7 @@
+layout: page
+title: "Approaching functional programming"
+permalink: /functional-1/
+
 Approaching functional programming: solving Project Euler's Problem 1
 ===
 
